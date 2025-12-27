@@ -9,6 +9,7 @@ Inspired by [BIPs](https://github.com/bitcoin/bips) (Bitcoin) and [NIPs](https:/
 | JIP | Title | Status |
 |-----|-------|--------|
 | [JIP-0001](jip-0001.md) | did:nostr Authentication & Schnorr Signatures | Draft |
+| [JIP-0002](jip-0002.md) | Git Support for Containers | Draft |
 
 ## Process
 
